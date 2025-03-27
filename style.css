@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: #f1f1f1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+    margin-bottom: 0.2em;
+}
+h2 {
+    font-size: 2em;
+    color: #888;
+}
+p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+.contact a {
+    display: inline-block;
+    margin: 10px;
+    color: #f1f1f1;
+    text-decoration: none;
+}
+.contact img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
